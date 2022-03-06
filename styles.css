@@ -1,0 +1,41 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+
+    text-align: center;
+    background-image: url("Images/pattern.jpg");
+}
+
+.Brushes, .Frames, .Paint {
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+.Brushes h2 {
+    font-size: 32px;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.Brushes h3, .Frames h3, .Paint h3 {
+    font-weight: bold;
+}
+
+.Brushes strong, .Frames strong, .Paint strong {
+    font-weight: bold;
+    color: blue;
+}
+
+.Frames  h2{
+    font-size: 32px;
+    color: white;
+    background-color: lightcoral;
+}
+
+.Paint h2 {
+    font-size: 32px;
+    color: white;
+    background-color: skyblue;
+}
